@@ -1,0 +1,35 @@
+#teste{
+    width: 90%;
+    height: 700px;
+    background-color: cyan;
+    margin: 0 auto;
+}
+@media (max-width: 400px) {
+    #teste{
+        background-color: orangered;
+    }
+}
+@media (min-width: 700px)  and (max-width: 680px)
+{
+    #teste{
+        background-color: greenyellow;
+    }
+    h1  {
+        font-size: 12px;
+    }
+}
+@media (min-width: 681px) and (max-width: 980px)
+{
+    #teste{
+        background-color: red;
+    }
+h1 {
+    font-size: 60px;
+}
+
+}
+@media (min-width: 981px)
+{
+    #teste{
+        background-color: royalblue;
+}
