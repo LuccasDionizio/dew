@@ -1,0 +1,88 @@
+header
+{
+    width: 40%;
+    height: 200px;
+    background-color: rgb(72, 72, 223);
+    margin: 5px;
+    border-color: black;
+    border: solid 5px;
+    float: left;
+    text-align: center;
+
+}
+nav
+{
+    width: 40%;
+    height: 200px;
+    background-color: red;
+    margin: 5px;
+    border-color: black;
+    border: solid 5px;
+    float: right;
+
+}
+main
+{
+    width: 99%;
+    height: 500px;
+    text-align: center;
+    background-color: green;
+    margin: 3px;
+    border-color: black;
+    border: solid 5px;
+    float: left;
+
+}
+#um
+{
+    width: 20%;
+    height: 450px;
+    background-color: rgb(51, 82, 71);
+    margin: 8px;
+    border-color: black;
+    border: solid 5px;
+    float: left;
+
+} 
+#dois
+{
+    width: 20%;
+    height: 450px;
+    background-color: rgba(17, 225, 240, 0.685);
+    margin: 8px;
+    border-color: black;
+    border: solid 5px;
+    float: left;
+
+} 
+#tres
+{
+    width: 20%;
+    height: 450px;
+    background-color: black;
+    margin: 8px;
+    border-color: black;
+    border: solid 5px;
+    float: right;
+} 
+#quatro
+{
+    width: 24%;
+    height: 450px;
+    background-color: white;
+    margin: 8px;
+    border-color: black;
+    border: solid 5px;
+    float: right;
+} 
+
+footer
+{
+    width: 98%;
+    height: 200px;
+    background-color: blue;
+    margin: 5px;
+    border-color: black;
+    border: solid 5px;
+    float: right;
+}
